@@ -33,6 +33,8 @@ class ContainerVC: UIViewController {
         }
     }
     
+    //
+    
     var isHidden = false
     let centerPanelExpandedOffset: CGFloat = 160
     
